@@ -1,5 +1,5 @@
 # FireChat
-Real time iOS chat application
+Real time iOS chat application using Firebase
 
 # Login
 ![alt tag](https://github.com/ajitkbaral/FireChat/blob/master/FireChat/Screenshots/Simulator%20Screen%20Shot%20Apr%208%2C%202017%2C%2010.13.08%20PM.png?raw=true "Login")
